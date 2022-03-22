@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Custom
+*fruits_image_classification*
+*/MNIST
+*ubyte*
+*.pt
+*.zip
+*run*
