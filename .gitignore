@@ -129,9 +129,10 @@ dmypy.json
 .pyre/
 
 # Custom
-*fruits_image_classification*
-*/MNIST
-*ubyte*
+**/FruitsClassification/
+**/MNIST/
+**/FetalHeadDataset/
 *.pt
 *.zip
-*run*
+**/*run*/
+*.tar
