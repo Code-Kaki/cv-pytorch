@@ -9,3 +9,4 @@ pip install torchsummary
 conda install -c anaconda scikit-learn
 pip install tensorboard
 conda install -c conda-forge black
+conda install tqdm
