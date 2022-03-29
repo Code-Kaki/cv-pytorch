@@ -26,7 +26,7 @@ dependencies:
   - brotlipy=0.7.0=py39hb82d6ee_1003
   - bzip2=1.0.8=h8ffe710_4
   - c-blosc2=2.0.4=h09319c2_1
-  - ca-certificates=2022.2.1=haa95532_0
+  - ca-certificates=2022.3.18=haa95532_0
   - certifi=2021.10.8=py39hcbf5309_1
   - cffi=1.15.0=py39h0878f49_0
   - cfitsio=4.0.0=hd67004f_0
@@ -136,7 +136,7 @@ dependencies:
   - numpy=1.22.3=py39h6331f09_0
   - opencv=4.5.5=py39hcbf5309_6
   - openjpeg=2.4.0=hb211442_1
-  - openssl=1.1.1n=h2bbff1b_0
+  - openssl=1.1.1n=h8ffe710_0
   - packaging=21.3=pyhd8ed1ab_0
   - pandas=1.4.1=py39h2e25243_0
   - pandoc=2.17.1.1=h57928b3_0
@@ -201,6 +201,7 @@ dependencies:
   - torchaudio=0.11.0=py39_cu113
   - torchvision=0.12.0=py39_cu113
   - tornado=6.1=py39hb82d6ee_2
+  - tqdm=4.63.1=pyhd8ed1ab_0
   - traitlets=5.1.1=pyhd8ed1ab_0
   - typed-ast=1.5.2=py39hb82d6ee_0
   - typing_extensions=4.1.1=pyha770c72_0
