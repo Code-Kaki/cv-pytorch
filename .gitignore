@@ -129,9 +129,9 @@ dmypy.json
 .pyre/
 
 # Custom
-**/FruitsClassification/
-**/MNIST/
-**/FetalHeadDataset/
+**/datasets/*
+!**/datasets/car-price.csv
+!**/datasets/wine.csv
 *.pt
 *.zip
 **/*run*/
